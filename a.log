@@ -1,0 +1,928 @@
+INFO:root:Goodbye cruel world!
+INFO:root:Goodbye cruel world!
+INFO:django.utils.autoreload:C:\Users\developer\Documents\Projects\2020_10 Web\Dj\django_project\blog\views.py changed, reloading.
+INFO:root:Goodbye cruel world!
+INFO:django.utils.autoreload:C:\Users\developer\Documents\Projects\2020_10 Web\Dj\django_project\blog\views.py changed, reloading.
+INFO:root:Goodbye cruel world!
+INFO:django.utils.autoreload:C:\Users\developer\Documents\Projects\2020_10 Web\Dj\django_project\blog\views.py changed, reloading.
+INFO:root:Goodbye cruel world!
+INFO:django.utils.autoreload:C:\Users\developer\Documents\Projects\2020_10 Web\Dj\django_project\blog\views.py changed, reloading.
+INFO:root:Goodbye cruel world!
+INFO:django.utils.autoreload:C:\Users\developer\Documents\Projects\2020_10 Web\Dj\django_project\blog\views.py changed, reloading.
+INFO:root:Goodbye cruel world!
+INFO:root:Goodbye cruel world!
+INFO:root:Goodbye cruel world!
+INFO:django.utils.autoreload:C:\Users\developer\Documents\Projects\2020_10 Web\Dj\django_project\blog\views.py changed, reloading.
+INFO:root:Goodbye cruel world!
+INFO:django.utils.autoreload:C:\Users\developer\Documents\Projects\2020_10 Web\Dj\django_project\blog\views.py changed, reloading.
+INFO:root:Goodbye cruel world!
+INFO:django.utils.autoreload:C:\Users\developer\Documents\Projects\2020_10 Web\Dj\django_project\blog\views.py changed, reloading.
+INFO:root:Goodbye cruel worldghfjghjghj!
+INFO:django.utils.autoreload:C:\Users\developer\Documents\Projects\2020_10 Web\Dj\django_project\blog\views.py changed, reloading.
+INFO:root:Goodbye cruel worldghfjghjghj!
+INFO:django.utils.autoreload:C:\Users\developer\Documents\Projects\2020_10 Web\Dj\django_project\blog\views.py changed, reloading.
+INFO:root:Goodbye cruel worldghfjghjghj!
+INFO:root:Goodbye cruel worldghfjghjghj!
+INFO:root:Goodbye cruel worldghfjghjghj!
+INFO:django.utils.autoreload:C:\Users\developer\Documents\Projects\2020_10 Web\Dj\django_project\blog\views.py changed, reloading.
+INFO:root:Goodbye cruel worldghfjghjghj!
+INFO:root:Goodbye cruel worldghfjghjghj!
+INFO:root:Goodbye cruel worldghfjghjghj!
+INFO:django.utils.autoreload:C:\Users\developer\Documents\Projects\2020_10 Web\Dj\django_project\blog\views.py changed, reloading.
+INFO:root:Goodbye cruel worldghfjghjghj!
+INFO:root:Goodbye cruel worldghfjghjghj!
+INFO:root:Goodbye cruel worldghfjghjghj!
+INFO:django.utils.autoreload:C:\Users\developer\Documents\Projects\2020_10 Web\Dj\django_project\blog\views.py changed, reloading.
+INFO:root:Goodbye cruel worldghfjghjghj!
+INFO:root:Goodbye cruel worldghfjghjghj!
+INFO:django.utils.autoreload:C:\Users\developer\Documents\Projects\2020_10 Web\Dj\django_project\blog\views.py changed, reloading.
+INFO:root:Goodbye cruel worldghfjghjghj!
+INFO:django.utils.autoreload:C:\Users\developer\Documents\Projects\2020_10 Web\Dj\django_project\blog\views.py changed, reloading.
+INFO:root:Goodbye cruel worldghfjghjghj!
+INFO:root:Goodbye cruel worldghfjghjghj!
+INFO:django.utils.autoreload:C:\Users\developer\Documents\Projects\2020_10 Web\Dj\django_project\blog\views.py changed, reloading.
+INFO:root:Goodbye cruel worldghfjghjghj!
+INFO:root:aaaaaaaaaaaaa!
+INFO:root:aaaaaaaaaaaaa!
+INFO:root:jkljfdgddev
+INFO:root:<QuerySet [<Post: Post object (3)>, <Post: Post object (4)>, <Post: Post object (13)>, <Post: Post object (15)>, <Post: Post object (16)>, <Post: Post object (17)>, <Post: Post object (20)>, <Post: Post object (21)>, <Post: Post object (22)>, <Post: Post object (23)>, <Post: Post object (27)>, <Post: Post object (28)>, <Post: Post object (29)>, <Post: Post object (30)>, <Post: Post object (33)>, <Post: Post object (34)>, <Post: Post object (36)>, <Post: Post object (37)>, <Post: Post object (39)>, <Post: Post object (40)>, '...(remaining elements truncated)...']>
+INFO:root:aaaaaaaaaaaaa!
+INFO:root:aaaaaaaaaaaaa!
+INFO:root:jkljfdgddev
+INFO:root:<QuerySet [<Post: Post object (3)>, <Post: Post object (4)>, <Post: Post object (13)>, <Post: Post object (15)>, <Post: Post object (16)>, <Post: Post object (17)>, <Post: Post object (20)>, <Post: Post object (21)>, <Post: Post object (22)>, <Post: Post object (23)>, <Post: Post object (27)>, <Post: Post object (28)>, <Post: Post object (29)>, <Post: Post object (30)>, <Post: Post object (33)>, <Post: Post object (34)>, <Post: Post object (36)>, <Post: Post object (37)>, <Post: Post object (39)>, <Post: Post object (40)>, '...(remaining elements truncated)...']>
+INFO:root:aaaaaaaaaaaaa!
+INFO:root:aaaaaaaaaaaaa!
+INFO:root:jkljfdgddev
+INFO:root:<QuerySet [<Post: Post object (3)>, <Post: Post object (4)>, <Post: Post object (13)>, <Post: Post object (15)>, <Post: Post object (16)>, <Post: Post object (17)>, <Post: Post object (20)>, <Post: Post object (21)>, <Post: Post object (22)>, <Post: Post object (23)>, <Post: Post object (27)>, <Post: Post object (28)>, <Post: Post object (29)>, <Post: Post object (30)>, <Post: Post object (33)>, <Post: Post object (34)>, <Post: Post object (36)>, <Post: Post object (37)>, <Post: Post object (39)>, <Post: Post object (40)>, '...(remaining elements truncated)...']>
+INFO:root:Goodbye cruel worldghfjghjghj!
+ERROR:django.request:Internal Server Error: /password-reset/
+Traceback (most recent call last):
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\utils\decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\views.py", line 222, in dispatch
+    return super().dispatch(*args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\edit.py", line 142, in post
+    return self.form_valid(form)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\views.py", line 235, in form_valid
+    form.save(**opts)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\forms.py", line 310, in save
+    self.send_mail(
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\forms.py", line 253, in send_mail
+    body = loader.render_to_string(email_template_name, context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\defaulttags.py", line 39, in render
+    output = self.nodelist.render(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\loader_tags.py", line 53, in render
+    result = self.nodelist.render(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\urls\base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\urls\resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'password_reset_confirm' not found. 'password_reset_confirm' is not a valid view function or pattern name.
+INFO:django.utils.autoreload:C:\Users\developer\Documents\Projects\2020_10 Web\Dj\django_project\django_project\urls.py changed, reloading.
+INFO:root:Goodbye cruel worldghfjghjghj!
+INFO:django.utils.autoreload:C:\Users\developer\Documents\Projects\2020_10 Web\Dj\django_project\django_project\urls.py changed, reloading.
+INFO:root:Goodbye cruel worldghfjghjghj!
+INFO:django.utils.autoreload:C:\Users\developer\Documents\Projects\2020_10 Web\Dj\django_project\django_project\urls.py changed, reloading.
+INFO:root:Goodbye cruel worldghfjghjghj!
+INFO:django.utils.autoreload:C:\Users\developer\Documents\Projects\2020_10 Web\Dj\django_project\django_project\urls.py changed, reloading.
+INFO:root:Goodbye cruel worldghfjghjghj!
+ERROR:django.request:Internal Server Error: /password-reset/
+Traceback (most recent call last):
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\utils\decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\views.py", line 222, in dispatch
+    return super().dispatch(*args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\edit.py", line 142, in post
+    return self.form_valid(form)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\views.py", line 235, in form_valid
+    form.save(**opts)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\forms.py", line 310, in save
+    self.send_mail(
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\forms.py", line 253, in send_mail
+    body = loader.render_to_string(email_template_name, context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\defaulttags.py", line 39, in render
+    output = self.nodelist.render(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\loader_tags.py", line 53, in render
+    result = self.nodelist.render(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\urls\base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\urls\resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'password_reset_confirm' not found. 'password_reset_confirm' is not a valid view function or pattern name.
+INFO:django.utils.autoreload:C:\Users\developer\Documents\Projects\2020_10 Web\Dj\django_project\django_project\urls.py changed, reloading.
+INFO:root:Goodbye cruel worldghfjghjghj!
+INFO:django.utils.autoreload:C:\Users\developer\Documents\Projects\2020_10 Web\Dj\django_project\django_project\urls.py changed, reloading.
+INFO:root:Goodbye cruel worldghfjghjghj!
+INFO:django.utils.autoreload:C:\Users\developer\Documents\Projects\2020_10 Web\Dj\django_project\django_project\urls.py changed, reloading.
+INFO:root:Goodbye cruel worldghfjghjghj!
+INFO:django.utils.autoreload:C:\Users\developer\Documents\Projects\2020_10 Web\Dj\django_project\django_project\urls.py changed, reloading.
+INFO:root:Goodbye cruel worldghfjghjghj!
+INFO:django.utils.autoreload:C:\Users\developer\Documents\Projects\2020_10 Web\Dj\django_project\django_project\urls.py changed, reloading.
+INFO:root:Goodbye cruel worldghfjghjghj!
+INFO:django.utils.autoreload:C:\Users\developer\Documents\Projects\2020_10 Web\Dj\django_project\django_project\urls.py changed, reloading.
+INFO:root:Goodbye cruel worldghfjghjghj!
+INFO:django.utils.autoreload:C:\Users\developer\Documents\Projects\2020_10 Web\Dj\django_project\django_project\urls.py changed, reloading.
+INFO:root:Goodbye cruel worldghfjghjghj!
+INFO:django.utils.autoreload:C:\Users\developer\Documents\Projects\2020_10 Web\Dj\django_project\django_project\urls.py changed, reloading.
+INFO:root:Goodbye cruel worldghfjghjghj!
+INFO:django.utils.autoreload:C:\Users\developer\Documents\Projects\2020_10 Web\Dj\django_project\django_project\urls.py changed, reloading.
+INFO:root:Goodbye cruel worldghfjghjghj!
+WARNING:django.request:Not Found: /password-reset/
+ERROR:django.request:Internal Server Error: /password_reset/
+Traceback (most recent call last):
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    response = response.render()
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\response.py", line 105, in render
+    self.content = self.rendered_content
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\response.py", line 81, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\response.py", line 63, in resolve_template
+    return select_template(template, using=self.using)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(', '.join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: users/password-_eset.html
+INFO:django.utils.autoreload:C:\Users\developer\Documents\Projects\2020_10 Web\Dj\django_project\django_project\urls.py changed, reloading.
+INFO:root:Goodbye cruel worldghfjghjghj!
+ERROR:django.request:Internal Server Error: /password_reset/
+Traceback (most recent call last):
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\utils\decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\views.py", line 222, in dispatch
+    return super().dispatch(*args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\edit.py", line 142, in post
+    return self.form_valid(form)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\views.py", line 235, in form_valid
+    form.save(**opts)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\forms.py", line 310, in save
+    self.send_mail(
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\forms.py", line 260, in send_mail
+    email_message.send()
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\mail\message.py", line 284, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\mail\backends\smtp.py", line 102, in send_messages
+    new_conn_created = self.open()
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\mail\backends\smtp.py", line 62, in open
+    self.connection = self.connection_class(self.host, self.port, **connection_params)
+  File "C:\Users\developer\AppData\Local\Programs\Python\Python39\lib\smtplib.py", line 255, in __init__
+    (code, msg) = self.connect(host, port)
+  File "C:\Users\developer\AppData\Local\Programs\Python\Python39\lib\smtplib.py", line 341, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+  File "C:\Users\developer\AppData\Local\Programs\Python\Python39\lib\smtplib.py", line 312, in _get_socket
+    return socket.create_connection((host, port), timeout,
+  File "C:\Users\developer\AppData\Local\Programs\Python\Python39\lib\socket.py", line 843, in create_connection
+    raise err
+  File "C:\Users\developer\AppData\Local\Programs\Python\Python39\lib\socket.py", line 831, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение
+WARNING:django.request:Not Found: /reset-password/
+WARNING:django.request:Not Found: /password-reset/
+ERROR:django.request:Internal Server Error: /password_reset/
+Traceback (most recent call last):
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\utils\decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\views.py", line 222, in dispatch
+    return super().dispatch(*args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\edit.py", line 142, in post
+    return self.form_valid(form)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\views.py", line 235, in form_valid
+    form.save(**opts)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\forms.py", line 310, in save
+    self.send_mail(
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\forms.py", line 260, in send_mail
+    email_message.send()
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\mail\message.py", line 284, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\mail\backends\smtp.py", line 102, in send_messages
+    new_conn_created = self.open()
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\mail\backends\smtp.py", line 62, in open
+    self.connection = self.connection_class(self.host, self.port, **connection_params)
+  File "C:\Users\developer\AppData\Local\Programs\Python\Python39\lib\smtplib.py", line 255, in __init__
+    (code, msg) = self.connect(host, port)
+  File "C:\Users\developer\AppData\Local\Programs\Python\Python39\lib\smtplib.py", line 341, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+  File "C:\Users\developer\AppData\Local\Programs\Python\Python39\lib\smtplib.py", line 312, in _get_socket
+    return socket.create_connection((host, port), timeout,
+  File "C:\Users\developer\AppData\Local\Programs\Python\Python39\lib\socket.py", line 843, in create_connection
+    raise err
+  File "C:\Users\developer\AppData\Local\Programs\Python\Python39\lib\socket.py", line 831, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение
+INFO:django.utils.autoreload:C:\Users\developer\Documents\Projects\2020_10 Web\Dj\django_project\django_project\urls.py changed, reloading.
+INFO:root:Goodbye cruel worldghfjghjghj!
+ERROR:django.request:Internal Server Error: /password_reset/
+Traceback (most recent call last):
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\utils\decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\views.py", line 222, in dispatch
+    return super().dispatch(*args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\edit.py", line 142, in post
+    return self.form_valid(form)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\views.py", line 235, in form_valid
+    form.save(**opts)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\forms.py", line 310, in save
+    self.send_mail(
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\forms.py", line 253, in send_mail
+    body = loader.render_to_string(email_template_name, context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\defaulttags.py", line 39, in render
+    output = self.nodelist.render(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\loader_tags.py", line 53, in render
+    result = self.nodelist.render(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\urls\base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\urls\resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'password_reset_confirm' not found. 'password_reset_confirm' is not a valid view function or pattern name.
+INFO:django.utils.autoreload:C:\Users\developer\Documents\Projects\2020_10 Web\Dj\django_project\django_project\urls.py changed, reloading.
+INFO:root:Goodbye cruel worldghfjghjghj!
+ERROR:django.request:Internal Server Error: /password_reset/
+Traceback (most recent call last):
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\utils\decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\views.py", line 222, in dispatch
+    return super().dispatch(*args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\edit.py", line 142, in post
+    return self.form_valid(form)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\views.py", line 235, in form_valid
+    form.save(**opts)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\forms.py", line 310, in save
+    self.send_mail(
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\forms.py", line 260, in send_mail
+    email_message.send()
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\mail\message.py", line 284, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\mail\backends\smtp.py", line 102, in send_messages
+    new_conn_created = self.open()
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\mail\backends\smtp.py", line 62, in open
+    self.connection = self.connection_class(self.host, self.port, **connection_params)
+  File "C:\Users\developer\AppData\Local\Programs\Python\Python39\lib\smtplib.py", line 255, in __init__
+    (code, msg) = self.connect(host, port)
+  File "C:\Users\developer\AppData\Local\Programs\Python\Python39\lib\smtplib.py", line 341, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+  File "C:\Users\developer\AppData\Local\Programs\Python\Python39\lib\smtplib.py", line 312, in _get_socket
+    return socket.create_connection((host, port), timeout,
+  File "C:\Users\developer\AppData\Local\Programs\Python\Python39\lib\socket.py", line 843, in create_connection
+    raise err
+  File "C:\Users\developer\AppData\Local\Programs\Python\Python39\lib\socket.py", line 831, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение
+ERROR:django.request:Internal Server Error: /password_reset/
+Traceback (most recent call last):
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\utils\decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\views.py", line 222, in dispatch
+    return super().dispatch(*args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\edit.py", line 142, in post
+    return self.form_valid(form)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\views.py", line 235, in form_valid
+    form.save(**opts)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\forms.py", line 310, in save
+    self.send_mail(
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\forms.py", line 260, in send_mail
+    email_message.send()
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\mail\message.py", line 284, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\mail\backends\smtp.py", line 102, in send_messages
+    new_conn_created = self.open()
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\mail\backends\smtp.py", line 62, in open
+    self.connection = self.connection_class(self.host, self.port, **connection_params)
+  File "C:\Users\developer\AppData\Local\Programs\Python\Python39\lib\smtplib.py", line 255, in __init__
+    (code, msg) = self.connect(host, port)
+  File "C:\Users\developer\AppData\Local\Programs\Python\Python39\lib\smtplib.py", line 341, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+  File "C:\Users\developer\AppData\Local\Programs\Python\Python39\lib\smtplib.py", line 312, in _get_socket
+    return socket.create_connection((host, port), timeout,
+  File "C:\Users\developer\AppData\Local\Programs\Python\Python39\lib\socket.py", line 843, in create_connection
+    raise err
+  File "C:\Users\developer\AppData\Local\Programs\Python\Python39\lib\socket.py", line 831, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение
+INFO:django.utils.autoreload:C:\Users\developer\Documents\Projects\2020_10 Web\Dj\django_project\django_project\urls.py changed, reloading.
+INFO:root:Goodbye cruel worldghfjghjghj!
+ERROR:django.request:Internal Server Error: /password_reset/
+Traceback (most recent call last):
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\utils\decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\views.py", line 222, in dispatch
+    return super().dispatch(*args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\edit.py", line 142, in post
+    return self.form_valid(form)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\views.py", line 235, in form_valid
+    form.save(**opts)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\forms.py", line 310, in save
+    self.send_mail(
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\forms.py", line 253, in send_mail
+    body = loader.render_to_string(email_template_name, context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\defaulttags.py", line 39, in render
+    output = self.nodelist.render(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\loader_tags.py", line 53, in render
+    result = self.nodelist.render(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\urls\base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\urls\resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'password_reset_confirm' not found. 'password_reset_confirm' is not a valid view function or pattern name.
+INFO:django.utils.autoreload:C:\Users\developer\Documents\Projects\2020_10 Web\Dj\django_project\django_project\urls.py changed, reloading.
+INFO:root:Goodbye cruel worldghfjghjghj!
+ERROR:django.request:Internal Server Error: /password_reset/
+Traceback (most recent call last):
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\utils\decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\views.py", line 222, in dispatch
+    return super().dispatch(*args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\edit.py", line 142, in post
+    return self.form_valid(form)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\views.py", line 235, in form_valid
+    form.save(**opts)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\forms.py", line 310, in save
+    self.send_mail(
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\forms.py", line 260, in send_mail
+    email_message.send()
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\mail\message.py", line 284, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\mail\backends\smtp.py", line 102, in send_messages
+    new_conn_created = self.open()
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\mail\backends\smtp.py", line 62, in open
+    self.connection = self.connection_class(self.host, self.port, **connection_params)
+  File "C:\Users\developer\AppData\Local\Programs\Python\Python39\lib\smtplib.py", line 255, in __init__
+    (code, msg) = self.connect(host, port)
+  File "C:\Users\developer\AppData\Local\Programs\Python\Python39\lib\smtplib.py", line 341, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+  File "C:\Users\developer\AppData\Local\Programs\Python\Python39\lib\smtplib.py", line 312, in _get_socket
+    return socket.create_connection((host, port), timeout,
+  File "C:\Users\developer\AppData\Local\Programs\Python\Python39\lib\socket.py", line 843, in create_connection
+    raise err
+  File "C:\Users\developer\AppData\Local\Programs\Python\Python39\lib\socket.py", line 831, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение
+WARNING:django.request:Not Found: /password-reset/
+ERROR:django.request:Internal Server Error: /password_reset/
+Traceback (most recent call last):
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\utils\decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\views.py", line 222, in dispatch
+    return super().dispatch(*args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\edit.py", line 142, in post
+    return self.form_valid(form)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\views.py", line 235, in form_valid
+    form.save(**opts)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\forms.py", line 310, in save
+    self.send_mail(
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\forms.py", line 260, in send_mail
+    email_message.send()
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\mail\message.py", line 284, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\mail\backends\smtp.py", line 102, in send_messages
+    new_conn_created = self.open()
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\mail\backends\smtp.py", line 62, in open
+    self.connection = self.connection_class(self.host, self.port, **connection_params)
+  File "C:\Users\developer\AppData\Local\Programs\Python\Python39\lib\smtplib.py", line 255, in __init__
+    (code, msg) = self.connect(host, port)
+  File "C:\Users\developer\AppData\Local\Programs\Python\Python39\lib\smtplib.py", line 341, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+  File "C:\Users\developer\AppData\Local\Programs\Python\Python39\lib\smtplib.py", line 312, in _get_socket
+    return socket.create_connection((host, port), timeout,
+  File "C:\Users\developer\AppData\Local\Programs\Python\Python39\lib\socket.py", line 843, in create_connection
+    raise err
+  File "C:\Users\developer\AppData\Local\Programs\Python\Python39\lib\socket.py", line 831, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение
+INFO:django.utils.autoreload:C:\Users\developer\Documents\Projects\2020_10 Web\Dj\django_project\django_project\settings.py changed, reloading.
+INFO:root:Goodbye cruel worldghfjghjghj!
+ERROR:django.request:Internal Server Error: /password_reset/
+Traceback (most recent call last):
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\utils\decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\views.py", line 222, in dispatch
+    return super().dispatch(*args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\edit.py", line 142, in post
+    return self.form_valid(form)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\views.py", line 235, in form_valid
+    form.save(**opts)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\forms.py", line 310, in save
+    self.send_mail(
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\forms.py", line 260, in send_mail
+    email_message.send()
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\mail\message.py", line 284, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\mail\backends\smtp.py", line 109, in send_messages
+    sent = self._send(message)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\mail\backends\smtp.py", line 125, in _send
+    self.connection.sendmail(from_email, recipients, message.as_bytes(linesep='\r\n'))
+  File "C:\Users\developer\AppData\Local\Programs\Python\Python39\lib\smtplib.py", line 882, in sendmail
+    raise SMTPSenderRefused(code, resp, from_addr)
+smtplib.SMTPSenderRefused: (530, b'5.7.0 Authentication Required. Learn more at\n5.7.0  https://support.google.com/mail/?p=WantAuthError h4sm479895ljk.4 - gsmtp', 'webmaster@localhost')
+ERROR:django.request:Internal Server Error: /password_reset/
+Traceback (most recent call last):
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\utils\decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\views.py", line 222, in dispatch
+    return super().dispatch(*args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\edit.py", line 142, in post
+    return self.form_valid(form)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\views.py", line 235, in form_valid
+    form.save(**opts)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\forms.py", line 310, in save
+    self.send_mail(
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\forms.py", line 260, in send_mail
+    email_message.send()
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\mail\message.py", line 284, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\mail\backends\smtp.py", line 109, in send_messages
+    sent = self._send(message)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\mail\backends\smtp.py", line 125, in _send
+    self.connection.sendmail(from_email, recipients, message.as_bytes(linesep='\r\n'))
+  File "C:\Users\developer\AppData\Local\Programs\Python\Python39\lib\smtplib.py", line 882, in sendmail
+    raise SMTPSenderRefused(code, resp, from_addr)
+smtplib.SMTPSenderRefused: (530, b'5.7.0 Authentication Required. Learn more at\n5.7.0  https://support.google.com/mail/?p=WantAuthError p3sm546798lfa.228 - gsmtp', 'webmaster@localhost')
+INFO:django.utils.autoreload:C:\Users\developer\Documents\Projects\2020_10 Web\Dj\django_project\django_project\settings.py changed, reloading.
+INFO:root:Goodbye cruel worldghfjghjghj!
+ERROR:django.request:Internal Server Error: /password_reset/
+Traceback (most recent call last):
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\utils\decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\views.py", line 222, in dispatch
+    return super().dispatch(*args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\edit.py", line 142, in post
+    return self.form_valid(form)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\views.py", line 235, in form_valid
+    form.save(**opts)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\forms.py", line 310, in save
+    self.send_mail(
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\forms.py", line 260, in send_mail
+    email_message.send()
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\mail\message.py", line 284, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\mail\backends\smtp.py", line 102, in send_messages
+    new_conn_created = self.open()
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\mail\backends\smtp.py", line 69, in open
+    self.connection.login(self.username, self.password)
+  File "C:\Users\developer\AppData\Local\Programs\Python\Python39\lib\smtplib.py", line 745, in login
+    raise last_exception
+  File "C:\Users\developer\AppData\Local\Programs\Python\Python39\lib\smtplib.py", line 734, in login
+    (code, resp) = self.auth(
+  File "C:\Users\developer\AppData\Local\Programs\Python\Python39\lib\smtplib.py", line 657, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials v13sm476557ljc.110 - gsmtp')
+INFO:django.utils.autoreload:C:\Users\developer\Documents\Projects\2020_10 Web\Dj\django_project\django_project\settings.py changed, reloading.
+INFO:root:Goodbye cruel worldghfjghjghj!
+ERROR:django.request:Internal Server Error: /password_reset/
+Traceback (most recent call last):
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\utils\decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\views.py", line 222, in dispatch
+    return super().dispatch(*args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\edit.py", line 142, in post
+    return self.form_valid(form)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\views.py", line 235, in form_valid
+    form.save(**opts)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\forms.py", line 310, in save
+    self.send_mail(
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\forms.py", line 260, in send_mail
+    email_message.send()
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\mail\message.py", line 284, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\mail\backends\smtp.py", line 102, in send_messages
+    new_conn_created = self.open()
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\mail\backends\smtp.py", line 69, in open
+    self.connection.login(self.username, self.password)
+  File "C:\Users\developer\AppData\Local\Programs\Python\Python39\lib\smtplib.py", line 745, in login
+    raise last_exception
+  File "C:\Users\developer\AppData\Local\Programs\Python\Python39\lib\smtplib.py", line 734, in login
+    (code, resp) = self.auth(
+  File "C:\Users\developer\AppData\Local\Programs\Python\Python39\lib\smtplib.py", line 657, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials d5sm554618lfs.61 - gsmtp')
+ERROR:django.request:Internal Server Error: /password_reset/
+Traceback (most recent call last):
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\utils\decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\views.py", line 222, in dispatch
+    return super().dispatch(*args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\edit.py", line 142, in post
+    return self.form_valid(form)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\views.py", line 235, in form_valid
+    form.save(**opts)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\forms.py", line 310, in save
+    self.send_mail(
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\forms.py", line 260, in send_mail
+    email_message.send()
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\mail\message.py", line 284, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\mail\backends\smtp.py", line 102, in send_messages
+    new_conn_created = self.open()
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\mail\backends\smtp.py", line 69, in open
+    self.connection.login(self.username, self.password)
+  File "C:\Users\developer\AppData\Local\Programs\Python\Python39\lib\smtplib.py", line 745, in login
+    raise last_exception
+  File "C:\Users\developer\AppData\Local\Programs\Python\Python39\lib\smtplib.py", line 734, in login
+    (code, resp) = self.auth(
+  File "C:\Users\developer\AppData\Local\Programs\Python\Python39\lib\smtplib.py", line 657, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials l11sm551770lfe.81 - gsmtp')
+ERROR:django.request:Internal Server Error: /password_reset/
+Traceback (most recent call last):
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\utils\decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\views.py", line 222, in dispatch
+    return super().dispatch(*args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\edit.py", line 142, in post
+    return self.form_valid(form)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\views.py", line 235, in form_valid
+    form.save(**opts)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\forms.py", line 310, in save
+    self.send_mail(
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\forms.py", line 260, in send_mail
+    email_message.send()
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\mail\message.py", line 284, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\mail\backends\smtp.py", line 102, in send_messages
+    new_conn_created = self.open()
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\mail\backends\smtp.py", line 69, in open
+    self.connection.login(self.username, self.password)
+  File "C:\Users\developer\AppData\Local\Programs\Python\Python39\lib\smtplib.py", line 745, in login
+    raise last_exception
+  File "C:\Users\developer\AppData\Local\Programs\Python\Python39\lib\smtplib.py", line 734, in login
+    (code, resp) = self.auth(
+  File "C:\Users\developer\AppData\Local\Programs\Python\Python39\lib\smtplib.py", line 657, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials y28sm613579lfk.140 - gsmtp')
+ERROR:django.request:Internal Server Error: /password_reset/
+Traceback (most recent call last):
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\utils\decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\views.py", line 222, in dispatch
+    return super().dispatch(*args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\edit.py", line 142, in post
+    return self.form_valid(form)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\views.py", line 235, in form_valid
+    form.save(**opts)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\forms.py", line 310, in save
+    self.send_mail(
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\forms.py", line 260, in send_mail
+    email_message.send()
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\mail\message.py", line 284, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\mail\backends\smtp.py", line 102, in send_messages
+    new_conn_created = self.open()
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\mail\backends\smtp.py", line 69, in open
+    self.connection.login(self.username, self.password)
+  File "C:\Users\developer\AppData\Local\Programs\Python\Python39\lib\smtplib.py", line 745, in login
+    raise last_exception
+  File "C:\Users\developer\AppData\Local\Programs\Python\Python39\lib\smtplib.py", line 734, in login
+    (code, resp) = self.auth(
+  File "C:\Users\developer\AppData\Local\Programs\Python\Python39\lib\smtplib.py", line 657, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials bp15sm551926lfb.55 - gsmtp')
+ERROR:django.request:Internal Server Error: /password_reset/
+Traceback (most recent call last):
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\utils\decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\views.py", line 222, in dispatch
+    return super().dispatch(*args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\views\generic\edit.py", line 142, in post
+    return self.form_valid(form)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\views.py", line 235, in form_valid
+    form.save(**opts)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\forms.py", line 310, in save
+    self.send_mail(
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\contrib\auth\forms.py", line 260, in send_mail
+    email_message.send()
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\mail\message.py", line 284, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\mail\backends\smtp.py", line 102, in send_messages
+    new_conn_created = self.open()
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\mail\backends\smtp.py", line 69, in open
+    self.connection.login(self.username, self.password)
+  File "C:\Users\developer\AppData\Local\Programs\Python\Python39\lib\smtplib.py", line 745, in login
+    raise last_exception
+  File "C:\Users\developer\AppData\Local\Programs\Python\Python39\lib\smtplib.py", line 734, in login
+    (code, resp) = self.auth(
+  File "C:\Users\developer\AppData\Local\Programs\Python\Python39\lib\smtplib.py", line 657, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9sm523895ljq.54 - gsmtp')
+INFO:django.utils.autoreload:C:\Users\developer\Documents\Projects\2020_10 Web\Dj\django_project\django_project\urls.py changed, reloading.
+INFO:root:Goodbye cruel worldghfjghjghj!
+WARNING:django.request:Not Found: /reset/url {login}
+WARNING:django.request:Not Found: /reset/url {login}
+INFO:django.utils.autoreload:C:\Users\developer\Documents\Projects\2020_10 Web\Dj\django_project\django_project\settings.py changed, reloading.
+INFO:root:Goodbye cruel worldghfjghjghj!
+INFO:django.utils.autoreload:C:\Users\developer\Documents\Projects\2020_10 Web\Dj\django_project\django_project\settings.py changed, reloading.
+INFO:root:Goodbye cruel worldghfjghjghj!
+ERROR:django.request:Internal Server Error: /login/
+Traceback (most recent call last):
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\core\handlers\base.py", line 204, in _get_response
+    response = response.render()
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\response.py", line 105, in render
+    self.content = self.rendered_content
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\response.py", line 83, in rendered_content
+    return template.render(context, self._request)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\base.py", line 170, in render
+    return self._render(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\base.py", line 162, in _render
+    return self.nodelist.render(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\loader_tags.py", line 62, in render
+    result = block.nodelist.render(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\base.py", line 938, in render
+    bit = node.render_annotated(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\base.py", line 905, in render_annotated
+    return self.render(context)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\template\defaulttags.py", line 446, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\urls\base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "c:\Users\developer\Documents\Projects\2020_10 Web\Dj\djRest\lib\site-packages\django\urls\resolvers.py", line 694, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'password' not found. 'password' is not a valid view function or pattern name.
+INFO:root:Goodbye cruel worldghfjghjghj!
+INFO:root:Goodbye cruel worldghfjghjghj!
+INFO:root:Goodbye cruel worldghfjghjghj!
+INFO:root:Goodbye cruel worldghfjghjghj!
+INFO:root:Goodbye cruel worldghfjghjghj!
+INFO:root:Goodbye cruel worldghfjghjghj!
+INFO:root:Goodbye cruel worldghfjghjghj!
